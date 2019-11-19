@@ -1,0 +1,4 @@
+﻿  vector.cpp
+c:\users\ronaldo\documents\visual studio 2013\projects\vector\vector\vector.cpp(166): warning C4018: “<”: 有符号/无符号不匹配
+          c:\users\ronaldo\documents\visual studio 2013\projects\vector\vector\vector.cpp(191): 参见对正在编译的函数 模板 实例化“void print<std::string>(const Vector<std::string> &)”的引用
+  vector.vcxproj -> C:\Users\RONALDO\documents\visual studio 2013\Projects\vector\Debug\vector.exe
